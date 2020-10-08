@@ -1,0 +1,26 @@
+body {
+  background: rgb(170, 255, 177);
+  align-items: center;
+}
+
+h1{
+    background:rgb(5, 124, 45);
+}
+
+tr {
+    position: relative;
+    width: 70%;
+    background: yellow;
+}
+
+table{
+    width: 70%;
+    background:white;
+    
+}
+
+.TitleRow{
+    height: auto;
+    width:70%;
+    background:red;
+}
